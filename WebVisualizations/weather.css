@@ -1,0 +1,59 @@
+.navbar-brand {
+    background-color: #2f2ffc;
+    color: #fffbfb;
+    font-family: times new roman;
+    font-weight: bold;
+    margin-left: 35px;
+    padding: 15px;
+    font-size: 25px;
+}
+
+.navbar {
+    max-height: 55px;
+    color: white;
+    background-color: #2f2ffc;
+}
+
+.body {
+    background-color: #b0b0b0;
+}
+
+.box {
+    margin-top: 50px;
+    margin-bottom: 60px;
+    padding: 10px 20px 15px;
+    color: black;
+    background-color: white;
+}
+
+.title {
+    color: #2f2ffc;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding-top: 25px;
+}
+
+.active,
+.panel:hover {
+    border-color: #2f2ffc;
+    border-style: solid;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+footer {
+    background-color: #666666;
+    border-top-style: solid;
+    border-top-width: 5px;
+    border-top-color: #2f2ffc;
+    color: white;
+    min-height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    width: 100%;
+    padding-top: 5px;
+}
